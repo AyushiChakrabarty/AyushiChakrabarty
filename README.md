@@ -14,7 +14,10 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-### I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai
+### I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus
+<p>
+  <h1 align="center"><b> I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h1>
+</p>
 
 -   🔭 I’m currently working on various machine learning projects 
 -   🌱 I’m inclined towards applying my knowledge in the health and space domains. :grin:
