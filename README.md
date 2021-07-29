@@ -26,6 +26,5 @@
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
 
-**AyushiChakrabarty/AyushiChakrabarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [linkedin]:https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/
