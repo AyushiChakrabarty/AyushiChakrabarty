@@ -14,9 +14,8 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-### I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus
 <p>
-  <h4 align="center"><b> I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h4>
+  <h3 align="center"><b> I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h3>
 </p>
 
 -   🔭 I’m currently working on various machine learning projects 
@@ -24,6 +23,7 @@
 -   👯 I’m looking forward to collaborate with other like-minded people :wink:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
+-   🥅 Goals: To master the skill of hardware-software co-design. :smile:
 
 
 [linkedin]:https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/
