@@ -16,7 +16,7 @@
 
 ### I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus
 <p>
-  <h1 align="center"><b> I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h1>
+  <h4 align="center"><b> I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h4>
 </p>
 
 -   🔭 I’m currently working on various machine learning projects 
