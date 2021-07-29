@@ -28,4 +28,4 @@
 
 **AyushiChakrabarty/AyushiChakrabarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[linkedin]: https://www.linkedin.com/in/ishita-dasgupta-249937195/
+[linkedin]:https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/
