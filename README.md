@@ -19,11 +19,11 @@
 </p>
 
 -   🔭 I’m currently working on various machine learning projects 
--   🌱 I’m inclined towards applying my knowledge in the health and space domains. :grin:
+-   🌱 I’m inclined towards applying my knowledge in the health and space domains :grin:
 -   👯 I’m looking forward to collaborate with other like-minded people :wink:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
--   🥅 Goals: To master the skill of hardware-software co-design. :smile:
+-   🥅 Goals: To master the skill of hardware-software co-design :smile:
 
 
 [linkedin]:https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/
