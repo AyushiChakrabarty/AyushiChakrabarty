@@ -12,7 +12,9 @@
 
 <br>
 
-<img align="center" height="500px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<p align="center">
+<img align="center" height="270px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+</p>
 
 <p>
   <h3 align="center"><b> I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h3>
