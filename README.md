@@ -17,12 +17,12 @@
 </p>
 
 <p>
-  <h3 align="center"><b> I am pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h3>
+  <h3 align="center"><b> Pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h3>
 </p>
 
--   🔭 I’m currently working on various machine learning projects 
--   🌱 I’m inclined towards applying my knowledge in the health and space domains :grin:
--   👯 I’m looking forward to collaborate with other like-minded people :wink:
+-   🔭 Currently working on various machine learning projects 
+-   🌱 Inclined towards applying my knowledge in the health and space domains :grin:
+-   👯 Looking forward to collaborate with other like-minded people :wink:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
 -   🥅 Goals: To master the skill of hardware-software co-design :smile:
