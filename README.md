@@ -1,6 +1,6 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <p>
-  <h1 align="center"><b>Hello there, this is Ayushi 👋</b></h1>
+  <h1 align="center"><b>Hello there! This is Ayushi 👋</b></h1>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 -   👯 Looking forward to collaborate with other like-minded people :wink:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
--   🥅 Goals: Artificial Intelligence! :smile:
+-   🥅 Goals: Deep Mind! :smile:
 
 
 [linkedin]:https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/
