@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <h3 align="center"><b> Pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai campus</b></h3>
+  <h3 align="center"><b> Pursuing MS in CS from Georgia Institute of Technology</b></h3>
 </p>
 
 -   🔭 Currently working on various machine learning projects 
