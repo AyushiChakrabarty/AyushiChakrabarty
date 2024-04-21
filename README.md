@@ -21,7 +21,7 @@
 </p>
 
 -   🔭 Currently working on various machine learning projects 
--   🌱 Inclined towards applying my knowledge in the health and space domains :grin:
+-   🌱 Inclined towards applying my knowledge in the health, space, and finance domains :grin:
 -   👯 Looking forward to collaborate with other like-minded people :wink:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
