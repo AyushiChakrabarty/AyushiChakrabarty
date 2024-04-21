@@ -1,24 +1,24 @@
-<!-- Hey there! Looks like you stumbled upon Ayushi's GitHub README, buckle up for a journey into the world of technology and beyond! -->
+<!-- Hey there! Looks like you stumbled upon Ayushi's GitHub, buckle up for a journey into the world of technology and beyond! -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Hello!">
 </p>
 
-<h1 align="center">🚀 Hello, Universe! I'm Ayushi 👩‍💻</h1>
+<h1 align="center">🚀 Hello I'm Ayushi! 👩‍💻</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/"><img src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi"><img src="https://img.shields.io/badge/-Shoot_me_an_Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
 </p>
 
-<p align="center">🎓 Currently unlocking the secrets of Computer Science at Georgia Tech 🐝</p>
+<p align="center">🎓 Currently pursuing Master's degree in Computer Science at Georgia Tech 🐝</p>
 
 <ul>
   <li>🔭 Crafting magic with machine learning projects</li>
   <li>🌱 Exploring realms of health, space, and finance with code</li>
   <li>👯 Seeking fellow explorers for collaborative adventures</li>
   <li>🧗‍♀️ Constantly challenging myself to scale new peaks</li>
-  <li>🥅 Dreaming of conquering Deep Mind and beyond!</li>
+  <li>🥅  Goals: Deep Mind!</li>
 </ul>
 
 <p align="center">🌟 Curious about my journey? Let's connect on <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">LinkedIn</a>! 🚀</p>
