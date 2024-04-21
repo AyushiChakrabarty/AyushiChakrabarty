@@ -87,8 +87,9 @@
   <h3>Other Tools</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Contiki%20NG-F3E8A4?style=for-the-badge&logo=contiki&logoColor=black" alt="Contiki NG">&nbsp;
-    <img src="https://img.shields.io/badge/KNIME%20Analytics-F9A53C?style=for-the-badge&logo=knime&logoColor=black"alt="KNIME Analytics">&nbsp;
+    <img src="https://img.shields.io/badge/Contiki-F3E8A4?style=for-the-badge&logo=contiki&logoColor=black" alt="Contiki">&nbsp;
+    <img src="https://img.shields.io/badge/IntelliSuite-1B82E1?style=for-the-badge&logo=apache&logoColor=white" alt="IntelliSuite">&nbsp;
+    <img src="https://img.shields.io/badge/KNIME%20Analytics-F9A53C?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME Analytics">&nbsp;
   </p>
 
 </div>
