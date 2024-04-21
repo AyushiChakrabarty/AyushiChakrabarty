@@ -20,7 +20,7 @@
   <li>🥅  Goals: Deep Mind!</li>
 </ul>
 
-<p align="center">🌟 Curious about my journey? Let's connect on <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">LinkedIn</a>! 🚀</p>
+<p align="center">🌟 Feel free to explore my GitHub for repositories starting with the AC initials! 🚀</p>
 
 <h2 align="center">🛠️ Tech Stack 🧰</h2>
 <div align="center">
@@ -92,10 +92,5 @@
   </p>
 
 </div>
-
-
-<h2>
-<!-- Feel free to explore my GitHub for repositories starting with the AC initials! -->
-</h2>
 
 <!-- If you're still here, congratulations! You've found the hidden message: "May your code be as elegant as your dreams." ✨ -->
