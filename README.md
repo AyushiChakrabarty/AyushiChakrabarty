@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">&nbsp;
 </p>
 
 <h3 align="center">Machine Learning/Deep Learning</h3>
@@ -66,7 +67,7 @@
 <h3 align="center">Database</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
 </p>
 
 <h3 align="center">Productivity</h3>
@@ -83,6 +84,15 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">&nbsp;
   <img src="https://img.shields.io/badge/Keil-2C2255?style=for-the-badge&logo=arm&logoColor=white" alt="Keil">&nbsp;
 </p>
+
+  <h3>Other Tools</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Contiki%20NG-F3E8A4?style=for-the-badge&logo=contiki&logoColor=black" alt="Contiki NG">&nbsp;
+    <img src="https://img.shields.io/badge/KNIME%20Analytics-F9A53C?style=for-the-badge&logo=knime&logoColor=black"alt="KNIME Analytics">&nbsp;
+  </p>
+
+</div>
 
 
 <!-- Feel free to explore my GitHub for repositories starting with the AC initials! -->
