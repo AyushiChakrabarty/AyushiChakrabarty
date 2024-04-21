@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/"><img src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi"><img src="https://img.shields.io/badge/-Drop_me_a_line-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi"><img src="https://img.shields.io/badge/-Drop_me_a_mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
 </p>
 
 <p align="center">🎓 Currently pursuing Master's degree in Computer Science at Georgia Tech 🐝</p>
