@@ -94,6 +94,8 @@
 </div>
 
 
+<h2>
 <!-- Feel free to explore my GitHub for repositories starting with the AC initials! -->
+</h2>
 
 <!-- If you're still here, congratulations! You've found the hidden message: "May your code be as elegant as your dreams." ✨ -->
