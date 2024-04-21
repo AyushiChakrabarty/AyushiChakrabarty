@@ -16,8 +16,7 @@
 <ul>
   <li>🔭 Crafting magic with machine learning projects</li>
   <li>🌱 Exploring realms of health, space, and finance with code</li>
-  <li>👯 Seeking fellow explorers for collaborative adventures</li>
-  <li>🧗‍♀️ Constantly challenging myself to scale new peaks</li>
+  <li>👯 Looking forward to collaborate with like-minded people</li>
   <li>🥅  Goals: Deep Mind!</li>
 </ul>
 
