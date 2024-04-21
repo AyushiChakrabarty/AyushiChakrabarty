@@ -24,7 +24,7 @@
 <p align="center">🌟 Curious about my journey? Let's connect on <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">LinkedIn</a>! 🚀</p>
 
 <h2 align="center">🛠️ Tech Stack 🧰</h2>
-
+<div align="center">
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
