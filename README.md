@@ -1,32 +1,38 @@
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
-<p>
-  <h1 align="center"><b>Hello there! This is Ayushi 👋</b></h1>
-</p>
+<!-- Hey there! Looks like you stumbled upon Ayushi's GitHub README, buckle up for a journey into the world of technology and beyond! -->
 
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Hello!">
 </p>
 
-<br>
+<h1 align="center">🚀 Hello, Universe! I'm Ayushi 👩‍💻</h1>
 
 <p align="center">
-<img align="center" height="270px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+  <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/"><img src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi"><img src="https://img.shields.io/badge/-Shoot_me_an_Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
 </p>
 
-<p>
-  <h3 align="center"><b> Pursuing MS in CS from Georgia Institute of Technology</b></h3>
+<p align="center">🎓 Currently unlocking the secrets of Computer Science at Georgia Tech 🐝</p>
+
+<ul>
+  <li>🔭 Crafting magic with machine learning projects</li>
+  <li>🌱 Exploring realms of health, space, and finance with code</li>
+  <li>👯 Seeking fellow explorers for collaborative adventures</li>
+  <li>🧗‍♀️ Constantly challenging myself to scale new peaks</li>
+  <li>🥅 Dreaming of conquering Deep Mind and beyond!</li>
+</ul>
+
+<p align="center">🌟 Curious about my journey? Let's connect on <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">LinkedIn</a>! 🚀</p>
+
+<h2 align="center">🛠️ Tech Stack 🧰</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">&nbsp;
 </p>
 
--   🔭 Currently working on various machine learning projects 
--   🌱 Inclined towards applying my knowledge in the health, space, and finance domains :grin:
--   👯 Looking forward to collaborate with other like-minded people :wink:
--   📬 How to reach me: [Let's get in touch!][linkedin]
--   🧗 I try to: Explore new paths and push my limits
--   🥅 Goals: Deep Mind! :smile:
--   😀 Repo codes (not cloned): Starts with the AC initials
+<!-- Feel free to explore my GitHub for repositories starting with the AC initials! -->
 
-
-[linkedin]:https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/
+<!-- If you're still here, congratulations! You've found the hidden message: "May your code be as elegant as your dreams." ✨ -->
