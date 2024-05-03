@@ -11,7 +11,7 @@
   <a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi"><img src="https://img.shields.io/badge/-Drop_me_a_mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
 </p>
 
-<p align="center">🎓 Currently pursuing Master's degree in Computer Science at Georgia Tech 🐝</p>
+<p align="center">🎓 Currently pursuing a Master's degree in Computer Science from Georgia Tech 🐝</p>
 
 <ul>
   <li>🔭 Crafting magic with machine learning projects</li>
