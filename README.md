@@ -1,10 +1,10 @@
-<!-- Hey there! Looks like you stumbled upon Ayushi's GitHub — buckle up 🚀 -->
+<!-- Hey there! Looks like you stumbled upon Ayushi's GitHub -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Hello!">
 </div>
 
-<h1 align="center">🚀 Hello, I'm Ayushi! 👩‍💻</h1>
+<h1 align="center">Hello, I'm Ayushi! 👩‍💻</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
@@ -18,25 +18,25 @@
 
 <p align="center">
   🎓 MS in Computer Science @ <b>Georgia Tech</b> 🐝<br>
-  💡 Machine Learning • Generative AI • Systems • Scalable ML
+  Machine Learning • Generative AI • Systems • Scalable ML
 </p>
 
 <div align="center">
   <p style="text-align: justify; max-width: 640px; margin: 0 auto;">
-    🔭 Building end-to-end ML & GenAI systems — from research to production<br>
+    🔭 Building end-to-end ML & GenAI systems from research to production<br>
     🌱 Exploring AI applications across education, health, space, and finance<br>
     👯 Always excited to collaborate with driven, curious builders<br>
-    🥅 Goal: Push the boundaries of intelligent systems (yes, DeepMind energy ⚡)
+    🥅 Goal: Push the boundaries of intelligent systems 
   </p>
 </div>
 
 <p align="center">
-  🌟 Check out my repositories — many start with <b>AC</b> 🚀
+  Check out my repositories. Many start with <b>AC</b>.
 </p>
 
 ---
 
-<h2 align="center">🛠️ Technical Skillset</h2>
+<h2 align="center">Technical Skillset</h2>
 
 <h3 align="center">Programming & Databases</h3>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
   <p style="text-align: justify; max-width: 720px; margin: 0 auto;">
-    Building, training, and deploying scalable ML systems — from classical models to deep learning and efficient inference.
+    Building, training, and deploying scalable ML systems. From classical models to deep learning and efficient inference.
   </p>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch">
@@ -133,11 +133,11 @@
     GPU programming, compression, quantization, and low-resource deployment.
   </p>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nvidia/nvidia-original.svg" width="40" height="40" alt="NVIDIA GPU" title="NVIDIA GPU">
+  <img src="https://img.shields.io/badge/NVIDIA_GPU-2D3748?style=for-the-badge" height="28" alt="NVIDIA GPU" title="NVIDIA GPU">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/xilinx/000000" width="40" height="40" alt="Xilinx" title="Xilinx Vitis">
+  <img src="https://img.shields.io/badge/Xilinx_Vitis-2D3748?style=for-the-badge" height="28" alt="Xilinx Vitis" title="Xilinx Vitis">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/groq/CC092F" width="40" height="40" alt="GROQ" title="GROQ">
+  <img src="https://img.shields.io/badge/GROQ-2D3748?style=for-the-badge" height="28" alt="GROQ" title="GROQ">
   &nbsp;
   <img src="https://img.shields.io/badge/Model_Compression-2D3748?style=for-the-badge" height="28" alt="Model Compression" title="Model Compression">
   &nbsp;
