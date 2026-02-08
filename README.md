@@ -38,7 +38,7 @@
 
 <h2 align="center">🛠️ Technical Skillset</h2>
 
-### Programming & Databases
+<h3 align="center">Programming & Databases</h3>
 
 <div align="center">
   <p style="text-align: justify; max-width: 720px; margin: 0 auto;">
@@ -62,7 +62,7 @@
 
 <br>
 
-### Machine Learning & AI
+<h3 align="center">Machine Learning & AI</h3>
 
 <div align="center">
   <p style="text-align: justify; max-width: 720px; margin: 0 auto;">
@@ -86,7 +86,7 @@
 
 <br>
 
-### Generative AI, NLP & Agentic Systems
+<h3 align="center">Generative AI, NLP & Agentic Systems</h3>
 
 <div align="center">
   <p style="text-align: justify; max-width: 720px; margin: 0 auto;">
@@ -104,7 +104,7 @@
 
 <br>
 
-### Data, Cloud & DevOps
+<h3 align="center">Data, Cloud & DevOps</h3>
 
 <div align="center">
   <p style="text-align: justify; max-width: 720px; margin: 0 auto;">
@@ -126,19 +126,27 @@
 
 <br>
 
-### Hardware-Aware ML & Optimization
+<h3 align="center">Hardware-Aware ML & Optimization</h3>
 
 <div align="center">
   <p style="text-align: justify; max-width: 720px; margin: 0 auto;">
     GPU programming, compression, quantization, and low-resource deployment.
   </p>
   <br>
-  <span>Xilinx Vitis · GROQ · Model Compression · Quantization</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nvidia/nvidia-original.svg" width="40" height="40" alt="NVIDIA GPU" title="NVIDIA GPU">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/xilinx/000000" width="40" height="40" alt="Xilinx" title="Xilinx Vitis">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/groq/CC092F" width="40" height="40" alt="GROQ" title="GROQ">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Model_Compression-2D3748?style=for-the-badge" height="28" alt="Model Compression" title="Model Compression">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Quantization-2D3748?style=for-the-badge" height="28" alt="Quantization" title="Quantization">
 </div>
 
 <br>
 
-### Software & Full-Stack Development
+<h3 align="center">Software & Full-Stack Development</h3>
 
 <div align="center">
   <p style="text-align: justify; max-width: 720px; margin: 0 auto;">
