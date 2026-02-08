@@ -21,15 +21,6 @@
   Machine Learning • Generative AI • Systems • Scalable ML
 </p>
 
-<div align="center">
-  <p style="text-align: justify; max-width: 640px; margin: 0 auto;">
-    🔭 Building end-to-end ML & GenAI systems from research to production<br>
-    🌱 Exploring AI applications across education, health, space, and finance<br>
-    👯 Always excited to collaborate with driven, curious builders<br>
-    🥅 Goal: Push the boundaries of intelligent systems 
-  </p>
-</div>
-
 <p align="center">
   Check out my repositories. Many start with <b>AC</b>.
 </p>
