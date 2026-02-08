@@ -1,97 +1,125 @@
-<!-- Hey there! Looks like you stumbled upon Ayushi's GitHub, buckle up for a journey into the world of technology and beyond! -->
+<!-- Hey there! Looks like you stumbled upon Ayushi's GitHub — buckle up 🚀 -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Hello!">
 </p>
 
-<h1 align="center">🚀 Hello I'm Ayushi! 👩‍💻</h1>
+<h1 align="center">🚀 Hello, I'm Ayushi! 👩‍💻</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/"><img src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi"><img src="https://img.shields.io/badge/-Drop_me_a_mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayushi.chakrabarty31@gmail.com?subject=Hi%20Ayushi">
+    <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">🎓 Currently pursuing a Master's degree in Computer Science from Georgia Tech 🐝</p>
+<p align="center">
+🎓 MS in Computer Science @ <b>Georgia Tech</b> 🐝 <br/>
+💡 Machine Learning • Generative AI • Systems • Scalable ML
+</p>
 
 <ul>
-  <li>🔭 Crafting magic with machine learning projects</li>
-  <li>🌱 Exploring realms of health, space, and finance with code</li>
-  <li>👯 Looking forward to collaborate with like-minded people</li>
-  <li>🥅  Goals: Deep Mind!</li>
+  <li>🔭 Building end-to-end ML & GenAI systems — from research to production</li>
+  <li>🌱 Exploring AI applications across education, health, space, and finance</li>
+  <li>👯 Always excited to collaborate with driven, curious builders</li>
+  <li>🥅 Goal: Push the boundaries of intelligent systems (yes, DeepMind energy ⚡)</li>
 </ul>
 
-<p align="center">🌟 Feel free to explore my GitHub for repositories starting with the AC initials! 🚀</p>
-
-<h2 align="center">🛠️ Tech Stack 🧰</h2>
-<div align="center">
-<h3 align="center">Programming Languages</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">&nbsp;
+🌟 Check out my repositories — many start with <b>AC</b> 🚀
 </p>
 
-<h3 align="center">Machine Learning/Deep Learning</h3>
+<hr/>
 
+<h2 align="center">🛠️ Technical Skillset</h2>
+
+<h3 align="center">💻 Programming & Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">&nbsp;
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">&nbsp;
-  <img src="https://img.shields.io/badge/Vitis%20AI-005571?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vitis AI">&nbsp;
+  Python · C++ · Java · R · MATLAB <br/>
+  MySQL · MongoDB · Linux
 </p>
 
-<h3 align="center">Web Development</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<h3 align="center">Cloud</h3>
-
+<h3 align="center">🤖 Machine Learning & AI</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">&nbsp;
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">&nbsp;
+Building, training, and deploying scalable ML systems — from classical models to deep learning and efficient inference.
 </p>
 
-<h3 align="center">Database</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+  PyTorch · TensorFlow · Keras · Scikit-Learn · XGBoost <br/>
+  NumPy · Pandas · Matplotlib · Seaborn · OpenCV <br/>
+  GDAL · Rasterio
 </p>
 
-<h3 align="center">Productivity</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
 </p>
 
-<h3 align="center">Embedded Systems</h3>
-
+<h3 align="center">🧠 Generative AI, NLP & Agentic Systems</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">&nbsp;
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">&nbsp;
-  <img src="https://img.shields.io/badge/Keil-2C2255?style=for-the-badge&logo=arm&logoColor=white" alt="Keil">&nbsp;
+Fine-tuning LLMs, RAG pipelines, multi-agent orchestration, and AI-powered products.
 </p>
 
-  <h3>Other Tools</h3>
+<p align="center">
+  LangChain · LangGraph · OpenAI SDK · LlamaIndex · RAG <br/>
+  Hugging Face · spaCy · NLTK · Prompt Engineering <br/>
+  Weaviate · FAISS · ChromaDB · Ollama · Pydantic · CrewAI
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Contiki-F3E8A4?style=for-the-badge&logo=contiki&logoColor=black" alt="Contiki-NG">&nbsp;
-    <img src="https://img.shields.io/badge/IntelliSuite-1B82E1?style=for-the-badge&logo=apache&logoColor=white" alt="IntelliSuite">&nbsp;
-    <img src="https://img.shields.io/badge/KNIME%20Analytics-F9A53C?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME Analytics">&nbsp;
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-</div>
+<h3 align="center">☁️ Data, Cloud & DevOps</h3>
+<p align="center">
+End-to-end pipelines, distributed systems, and production deployments.
+</p>
 
-<!-- If you're still here, congratulations! You've found the hidden message: "May your code be as elegant as your dreams." ✨ -->
+<p align="center">
+  AWS · GCP · Azure · Azure Databricks <br/>
+  Docker · CI/CD · Git · Apache Spark · FastAPI · asyncio
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<h3 align="center">⚡ Hardware-Aware ML & Optimization</h3>
+<p align="center">
+GPU programming, compression, quantization, and low-resource deployment.
+</p>
+
+<p align="center">
+  Xilinx Vitis · GROQ · Model Compression · Quantization
+</p>
+
+<h3 align="center">🌐 Software & Full-Stack Development</h3>
+<p align="center">
+Rapid prototyping, dashboards, and production-ready applications.
+</p>
+
+<p align="center">
+  HTML · CSS · Bootstrap · Streamlit · React <br/>
+  Django · Flask · Agile · Jira
+</p>
+
+<hr/>
+
