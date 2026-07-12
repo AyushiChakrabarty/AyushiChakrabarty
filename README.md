@@ -11,11 +11,11 @@ Building intelligent systems at the intersection of:
 <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="mailto:ayushi.chakrabarty31@gmail.com">
 <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://github.com/AyushiChakrabarty">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
