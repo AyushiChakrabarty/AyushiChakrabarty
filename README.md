@@ -140,20 +140,89 @@ Machine Learning • Generative AI • System Design • Responsible AI • Scal
 
 </div>
 
-# 📊 GitHub Analytics
+# ⚡ Engineering Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiChakrabarty&theme=github-dark&hide_border=true&area=true&area_color=0A84FF&line=58A6FF&point=FFFFFF" width="100%">
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiChakrabarty&theme=github-dark&hide_border=true&area=true&area_color=0A84FF&line=58A6FF&point=FFFFFF&radius=8"
+width="100%"
+alt="GitHub Activity Graph"
+/>
 
 </div>
 
 <br>
 
+---
+
+# 📊 GitHub Stats & Streak
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&theme=transparent&hide_border=true&ring=0A84FF&fire=58A6FF&currStreakLabel=0A84FF">
+<img 
+width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&theme=transparent&hide_border=true&ring=0A84FF&fire=58A6FF&currStreakLabel=0A84FF"
+alt="GitHub Streak"
+/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiChakrabarty&theme=github_dark">
+<img 
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiChakrabarty&theme=github_dark"
+alt="GitHub Stats"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 💻 Top Languages
+
+<div align="center">
+
+<img 
+width="45%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushiChakrabarty&theme=github_dark"
+alt="Top Languages by Repository"
+/>
+
+<img 
+width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiChakrabarty&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+alt="Most Used Languages"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img 
+src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&title=Stars,Followers,Commit,PullRequest,Repository,MultiLanguage"
+alt="GitHub Trophies"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 📈 Contribution Summary
+
+<div align="center">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiChakrabarty&theme=github_dark"
+width="100%"
+alt="Contribution Summary"
+/>
 
 </div>
