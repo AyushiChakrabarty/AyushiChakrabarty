@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Hello">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Hello">
 
 <h1>
 Hi, I'm Ayushi Chakrabarty 👋
@@ -51,51 +51,88 @@ Machine Learning • Generative AI • System Design • Responsible AI • Scal
 
 <div align="center">
 
+## 💻 Languages
 
-### Programming & Data
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-
+<img src="https://img.shields.io/badge/Python-0A84FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-0A84FF?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-0A84FF?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/C++-0A84FF?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-0A84FF?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <br><br>
 
+## 🗄️ Databases & Storage
 
-### Machine Learning & AI
+<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-2563EB?style=for-the-badge&logo=supabase&logoColor=white">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<br>
 
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM%20Applications-0A84FF?style=for-the-badge">
-
-
-<br><br>
-
-
-### Cloud & Engineering
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/CI%2FCD-0A84FF?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Redis-2563EB?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Memcached-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Amazon%20S3-2563EB?style=for-the-badge&logo=amazons3&logoColor=white">
 
 <br><br>
 
+## 🤖 Machine Learning & Generative AI
 
-### AI Systems & Optimization
+<img src="https://img.shields.io/badge/PyTorch-0A84FF?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-0A84FF?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Transformers-0A84FF?style=for-the-badge&logo=huggingface&logoColor=white">
 
-<img src="https://img.shields.io/badge/Model%20Compression-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Quantization-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/GPU%20Acceleration-2563EB?style=for-the-badge">
+<br>
 
+<img src="https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/CrewAI-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI%20SDK-2563EB?style=for-the-badge&logo=openai&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM%20Applications-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-2563EB?style=for-the-badge">
+
+<br><br>
+
+## 🏗️ Systems, Cloud & Infrastructure
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-0A84FF?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-0A84FF?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-0A84FF?style=for-the-badge&logo=linux&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-2563EB?style=for-the-badge&logo=terraform&logoColor=white">
+
+<br><br>
+
+## 🔌 Backend & API Development
+
+<img src="https://img.shields.io/badge/FastAPI-0A84FF?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger/OpenAPI-0A84FF?style=for-the-badge&logo=swagger&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/CI/CD-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white">
+
+<br><br>
+
+## 🛡️ Responsible AI & Observability
+
+<img src="https://img.shields.io/badge/AI%20Guardrails-0A84FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Responsible%20AI-0A84FF?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/LLM%20Observability-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Model%20Monitoring-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI%20Evaluation-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tracing%20%26%20Telemetry-2563EB?style=for-the-badge">
 
 </div>
 
