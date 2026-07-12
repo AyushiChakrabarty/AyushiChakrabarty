@@ -8,7 +8,7 @@ Building intelligent systems at the intersection of:
 
 **Machine Learning · Generative AI · System Design · Responsible AI**
 
-<br>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
