@@ -10,13 +10,14 @@ Hi, I'm Ayushi Chakrabarty 👋
 
 <p>
 <b>Research Scientist @ Georgia Tech</b> 🐝 <br>
-Founder building AI systems for education 🚀
 </p>
 
 <p>
-I build intelligent systems at the intersection of
+Building at the intersection of
 <br>
-<b>Machine Learning • Generative AI • NLP • Cloud Systems</b>
+<b>
+Machine Learning • Generative AI • System Design • Responsible AI • Scalable AI Systems
+</b>
 </p>
 
 <br>
@@ -37,12 +38,13 @@ I build intelligent systems at the intersection of
 
 ## 🧠 About Me
 
-- 🔬 Research Scientist working on AI/ML systems
-- 🚀 Founder building **AI-powered education technology**
-- 🤖 Interested in LLMs, NLP, RAG systems, and human-centered AI
-- ☁️ Building scalable ML applications with cloud-native architectures
-- 🎓 MS Computer Science @ Georgia Institute of Technology
-
+- 🔬 Research Scientist @ Georgia Tech working on AI/ML systems
+- 🚀 Building AI-powered products with human-centered design
+- 🤖 Exploring agents, RAG pipelines, and LLM applications
+- 🏗️ Passionate about system design and scalable architectures
+- 🛡️ Interested in responsible AI, model safety, guardrails, and trustworthy AI deployment
+- 📊 Building observable AI systems with monitoring, evaluation, and feedback loops
+- ☁️ Designing cloud-native ML infrastructure for production environments
 ---
 
 # 🛠️ Technical Stack
