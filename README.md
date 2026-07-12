@@ -84,7 +84,7 @@ Currently exploring how to bridge the gap between **AI research and production s
 
 </div>
 
-# ⚡ Engineering Activity
+## ⚡Activity
 
 <div align="center">
 
@@ -97,7 +97,7 @@ width="100%"
 
 ---
 
-# 📊 GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -131,7 +131,7 @@ src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&th
 
 ---
 
-# 📈 Contribution Overview
+## 📈 Contribution Overview
 
 <div align="center">
 
