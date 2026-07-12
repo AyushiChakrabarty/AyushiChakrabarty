@@ -32,10 +32,10 @@ I build **AI systems that are scalable, reliable, and human-centered**.
 
 My interests span:
 
-- 🤖 LLM applications, agents, and retrieval-augmented generation
-- 🏗️ System design, distributed systems, and cloud-native architectures
-- 🛡️ Responsible AI, guardrails, evaluation, and trustworthy deployment
-- 📊 Observability and feedback-driven AI improvement loops
+- LLM applications, agents, and retrieval-augmented generation
+- System design, distributed systems, and cloud-native architectures
+- Responsible AI, guardrails, evaluation, and trustworthy deployment
+- Observability and feedback-driven AI improvement loops
 
 Currently exploring how to bridge the gap between **AI research and production systems**.
 
