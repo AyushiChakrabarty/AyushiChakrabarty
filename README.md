@@ -100,11 +100,6 @@ width="49%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&theme=transparent&hide_border=true&ring=0A84FF&fire=58A6FF"
 />
 
-<img 
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiChakrabarty&theme=github_dark"
-/>
-
 </div>
 
 <br>
