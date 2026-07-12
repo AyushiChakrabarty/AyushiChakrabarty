@@ -26,11 +26,7 @@ Building intelligent systems at the intersection of:
 
 ---
 
-## About
-
-I build **AI systems that are scalable, reliable, and human-centered**.
-
-My interests span:
+## Interests
 
 - LLM applications, agents, and retrieval-augmented generation
 - System design, distributed systems, and cloud-native architectures
