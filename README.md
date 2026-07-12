@@ -22,15 +22,19 @@ Machine Learning • Generative AI • System Design • Responsible AI • Scal
 
 <br>
 
-<a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="mailto:ayushi.chakrabarty31@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0A84FF?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Chakrabarty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayushi.chakrabarty31@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ayushi.chakrabarty31%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AyushiChakrabarty">
+    <img src="https://img.shields.io/badge/GitHub-AyushiChakrabarty-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
