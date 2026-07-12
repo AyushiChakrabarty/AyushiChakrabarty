@@ -156,3 +156,54 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask">
 </div>
+
+## ⚡ Activity Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiChakrabarty&theme=react-dark&hide_border=true&area=true&area_color=A855F7&color=FFFFFF&line=A855F7&point=FFFFFF&radius=8" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+| 🏆 Total Stars | 📦 Public Repos | 🔥 Current Streak | 👥 Followers |
+|:---:|:---:|:---:|:---:|
+| ![Stars](https://img.shields.io/github/stars/AyushiChakrabarty?label=Stars&style=for-the-badge&color=A855F7&logo=github) | ![Repos](https://img.shields.io/badge/Repos-15+-A855F7?style=for-the-badge&logo=github) | ![Streak](https://img.shields.io/badge/Streak-active-A855F7?style=for-the-badge&logo=github) | ![Followers](https://img.shields.io/github/followers/AyushiChakrabarty?label=Followers&style=for-the-badge&color=A855F7&logo=github) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiChakrabarty&theme=tokyonight" alt="Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushiChakrabarty&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&title=MultiCommit,Stars,Followers,PullRequest,Commit,Repository,Organizations" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Profile Summary Cards
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiChakrabarty&theme=tokyonight" width="100%" alt="Profile Details" />
+
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiChakrabarty&theme=tokyonight" alt="Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushiChakrabarty&theme=tokyonight&utcOffset=-4" alt="Productive Time" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushiChakrabarty&theme=tokyonight" alt="Repos per Language" />
+</div>
