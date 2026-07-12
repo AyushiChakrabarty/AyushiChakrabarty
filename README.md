@@ -1,83 +1,90 @@
-<!-- Welcome to Ayushi's GitHub -->
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Hello">
+# 👋 Hi, I'm Ayushi Chakrabarty
 
-<h1>
-Hi, I'm Ayushi Chakrabarty 👋
-</h1>
+### Research Scientist @ Georgia Tech 🐝
 
-<p>
-<b>Research Scientist @ Georgia Tech</b> 🐝 <br>
-</p>
+Building intelligent systems at the intersection of:
 
-<p>
-Building at the intersection of
-<br>
-<b>
-Machine Learning • Generative AI • System Design • Responsible AI • Scalable AI Systems
-</b>
-</p>
+**Machine Learning · Generative AI · System Design · Responsible AI**
 
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Chakrabarty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ayushi.chakrabarty31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ayushi.chakrabarty31%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AyushiChakrabarty">
-    <img src="https://img.shields.io/badge/GitHub-AyushiChakrabarty-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="mailto:ayushi.chakrabarty31@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/AyushiChakrabarty">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
 
 </div>
 
+<br>
+
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-- 🔬 Research Scientist @ Georgia Tech working on AI/ML systems
-- 🚀 Building AI-powered products with human-centered design
-- 🤖 Exploring agents, RAG pipelines, and LLM applications
-- 🏗️ Passionate about system design and scalable architectures
-- 🛡️ Interested in responsible AI, model safety, guardrails, and trustworthy AI deployment
-- 📊 Building observable AI systems with monitoring, evaluation, and feedback loops
-- ☁️ Designing cloud-native ML infrastructure for production environments
+I build **AI systems that are scalable, reliable, and human-centered**.
+
+My interests span:
+
+- 🤖 LLM applications, agents, and retrieval-augmented generation
+- 🏗️ System design, distributed systems, and cloud-native architectures
+- 🛡️ Responsible AI, guardrails, evaluation, and trustworthy deployment
+- 📊 Observability and feedback-driven AI improvement loops
+
+Currently exploring how to bridge the gap between **AI research and production systems**.
+
 ---
 
-# 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 <div align="center">
 
-**Languages**  
+### Languages
+
 `Python` `Java` `JavaScript` `C++` `SQL`
 
 <br>
 
-**Data & Infrastructure**  
-`PostgreSQL` `MongoDB` `Redis` `S3` `AWS` `Docker` `Kafka` `Terraform`
+### AI Engineering
 
-<br>
-
-**AI Engineering**  
-`PyTorch` `TensorFlow` `Transformers` `LangChain` `CrewAI` `OpenAI SDK`  
+`PyTorch` `TensorFlow` `Transformers`  
+`LangChain` `CrewAI` `OpenAI SDK`  
 `RAG` `Vector Search` `LLM Applications`
 
 <br>
 
-**Backend & Development**  
-`FastAPI` `Swagger` `CI/CD` `Git`
+### Systems & Cloud
+
+`AWS` `Docker` `Linux`  
+`Apache Kafka` `Terraform`  
+`PostgreSQL` `MongoDB` `Redis` `S3`
 
 <br>
 
-**Trustworthy AI**  
-`AI Guardrails` `Responsible AI` `LLM Evaluation` `Observability` `Monitoring`
+### Backend & Engineering
+
+`FastAPI` `Swagger`  
+`REST APIs` `CI/CD` `Git`
+
+<br>
+
+### Trustworthy AI
+
+`AI Guardrails` `Responsible AI`  
+`LLM Evaluation` `Observability`  
+`Monitoring` `Telemetry`
 
 </div>
 
@@ -86,69 +93,55 @@ Machine Learning • Generative AI • System Design • Responsible AI • Scal
 <div align="center">
 
 <img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiChakrabarty&theme=github-dark&hide_border=true&area=true&area_color=0A84FF&line=58A6FF&point=FFFFFF&radius=8"
+src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiChakrabarty&theme=github-dark&hide_border=true&area=true&area_color=0A84FF&line=58A6FF&point=FFFFFF"
 width="100%"
-alt="GitHub Activity Graph"
 />
 
 </div>
 
-<br>
-
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Insights
 
 <div align="center">
 
 <img 
 width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&theme=transparent&hide_border=true&ring=0A84FF&fire=58A6FF&currStreakLabel=0A84FF"
-alt="GitHub Streak"
+src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&theme=transparent&hide_border=true&ring=0A84FF&fire=58A6FF"
 />
 
 <img 
 width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiChakrabarty&theme=github_dark"
-alt="GitHub Stats"
 />
 
 </div>
 
 <br>
-
----
-
-# 💻 Languages & Achievements
 
 <div align="center">
 
 <img 
 width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushiChakrabarty&theme=github_dark"
-alt="Top Languages by Repository"
 />
 
 <img 
 width="49%"
-src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=5&title=Stars,Followers,Commit,Repository"
-alt="GitHub Trophies"
+src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&theme=darkhub&no-frame=true&no-bg=true&column=4&title=Stars,Followers,Commit,Repository"
 />
 
 </div>
 
-<br>
-
 ---
 
-# 📈 Contribution Summary
+# 📈 Contribution Overview
 
 <div align="center">
 
 <img 
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiChakrabarty&theme=github_dark"
 width="100%"
-alt="Contribution Summary"
 />
 
 </div>
