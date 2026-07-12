@@ -156,7 +156,7 @@ alt="GitHub Activity Graph"
 
 ---
 
-# 📊 GitHub Stats & Streak
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -178,34 +178,19 @@ alt="GitHub Stats"
 
 ---
 
-# 💻 Top Languages
+# 💻 Languages & Achievements
 
 <div align="center">
 
 <img 
-width="45%"
+width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushiChakrabarty&theme=github_dark"
 alt="Top Languages by Repository"
 />
 
 <img 
-width="45%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiChakrabarty&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-alt="Most Used Languages"
-/>
-
-</div>
-
-<br>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img 
-src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&title=Stars,Followers,Commit,PullRequest,Repository,MultiLanguage"
+width="49%"
+src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=5&title=Stars,Followers,Commit,Repository"
 alt="GitHub Trophies"
 />
 
