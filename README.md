@@ -107,8 +107,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&th
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=AyushiChakrabarty&show_icons=true&theme=github_dark&hide_border=true"
 width="49%"
+src="https://github-readme-stats.vercel.app/api?username=AyushiChakrabarty&show_icons=true&theme=github_dark&hide_border=true"
 />
 
 <img 
