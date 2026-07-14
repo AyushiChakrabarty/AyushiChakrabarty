@@ -123,9 +123,4 @@ src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&th
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiChakrabarty&theme=github_dark"
 width="100%"
 />
-
-## 🐍 Contributions
-
-![Snake animation](https://raw.githubusercontent.com/AyushiChakrabarty/AyushiChakrabarty/output/github-contribution-grid-snake.svg)
-
 </div>
