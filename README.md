@@ -106,11 +106,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChakrabarty&th
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=AyushiChakrabarty&show_icons=true&theme=github_dark&hide_border=true"
-/>
-
 <img 
 width="49%"
 src="https://github-profile-trophy-bay.vercel.app/?username=AyushiChakrabarty&theme=darkhub&no-frame=true&no-bg=true&column=4&title=Stars,Followers,Commit,Repository"
