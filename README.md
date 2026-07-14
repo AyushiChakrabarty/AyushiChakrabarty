@@ -124,4 +124,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 width="100%"
 />
 
+## 🐍 Contributions
+
+![Snake animation](https://raw.githubusercontent.com/AyushiChakrabarty/AyushiChakrabarty/output/github-contribution-grid-snake.svg)
+
 </div>
